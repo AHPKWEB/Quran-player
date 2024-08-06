@@ -1,0 +1,14 @@
+/************************
+01: Arabic
+DEVELOPER: 
+************************/
+@font-face {
+	font-family: "Arabic";
+	src: url("font/Arabic.eot");
+	src: url("font/Arabic.eot#iefix") format("embedded-opentype"),
+	url("font/Arabic.woff") format("woff"),
+	url("font/Arabic.ttf") format("truetype"),
+	url("font/Arabic.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}

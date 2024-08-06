@@ -654,10 +654,18 @@ img.music_image {
   padding-left: 10px;
 }
 .list_music_name {
-  font-size: 18px;
+  font-family: "Arabic";
+  font-size: 14px;
   color: #111;
 }
+span.music_name {
+  font-family: "Arabic";
+  font-size: 14px;
+  color: #ffeb3b;
+  word-break: break-word;
+}
 .list_music_artist {
+  font-size: 15px;
   font-weight: 500;
 }
 .list_music_time {
